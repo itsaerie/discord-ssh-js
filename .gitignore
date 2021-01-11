@@ -1,0 +1,7 @@
+# Special keys
+config.json
+
+# Generic gitignores for JS
+.gitattributes
+.eslintrc.json
+node_modules/
